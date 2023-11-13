@@ -4,23 +4,23 @@
 
 Prints
 Menu Principal
-![Captura de tela 2023-11-13 095947](https://github.com/gustavortupa/JogosDigitais/assets/70238993/7fbd0d7e-f723-48bf-98bf-1a1004f0c974)
+![tela1](https://github.com/gustavortupa/JogoUnity/assets/70238993/31cc78fa-0bcb-4fc5-8bc4-80deeaa7546e)
 
-![Captura de tela 2023-11-13 100125](https://github.com/gustavortupa/JogosDigitais/assets/70238993/406037d4-c0be-4c8e-acd8-ec791e3c2698)
+![tela2](https://github.com/gustavortupa/JogoUnity/assets/70238993/d6af74a1-1a89-4eb9-98a8-aa8dafb07a6a)
 
-![Captura de tela 2023-11-13 100145](https://github.com/gustavortupa/JogosDigitais/assets/70238993/98a0016b-2bbe-4a58-a832-5420db1894da)
+![tela3](https://github.com/gustavortupa/JogoUnity/assets/70238993/7655ded1-a1d8-48a3-a5ea-36c6f9e6ee4d)
 
 
 Jogo
-![Captura de tela 2023-11-13 100023](https://github.com/gustavortupa/JogosDigitais/assets/70238993/c1502010-89ab-4f59-8998-3fb80cb10cb8)
+![tela4](https://github.com/gustavortupa/JogoUnity/assets/70238993/ef63bed4-d132-4416-9d44-10bb692eb2d8)
 
-![Captura de tela 2023-11-13 100201](https://github.com/gustavortupa/JogosDigitais/assets/70238993/68cb634e-faa2-4c19-b829-a503ec57c90c)
+![tela5](https://github.com/gustavortupa/JogoUnity/assets/70238993/8bfa197f-f92b-4980-8353-c8fe9134e809)
 
-![Captura de tela 2023-11-13 100217](https://github.com/gustavortupa/JogosDigitais/assets/70238993/5a28364d-7381-4375-8049-00ccc65a7e96)
+![tela6](https://github.com/gustavortupa/JogoUnity/assets/70238993/5ef28b00-729d-4201-968f-c8413d30d38a)
 
-![Captura de tela 2023-11-13 100237](https://github.com/gustavortupa/JogosDigitais/assets/70238993/96072a84-48b7-4a93-8abf-e822dce87d56)
+![tela7](https://github.com/gustavortupa/JogoUnity/assets/70238993/20c15cdf-6065-4f0f-a469-8361c8a9dcee)
 
-![Captura de tela 2023-11-13 100314](https://github.com/gustavortupa/JogosDigitais/assets/70238993/5a383e58-c696-4ec4-bc0b-8e05f720a07f)
+![tela8](https://github.com/gustavortupa/JogoUnity/assets/70238993/a9813c8c-c589-40c4-b96a-baa42cbdfa8a)
 
 
 
